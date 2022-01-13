@@ -5,7 +5,7 @@ The Airline Reservation System is a computerized system.
 The main purpose of Airline Ticket Reservation System is to book flights, store and show data of user and flights, check the details of flights.
 The application is based on the User Interface. The user interface will have access to book or modify or cancel a flight, show details of booked flight and show all flights. 
 
-# Features:
+## Features:
 1. Login/Signup
 2. Check the departure flights
 3. Book a flight
